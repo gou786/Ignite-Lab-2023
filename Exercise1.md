@@ -5,9 +5,9 @@
  **Open** the new tab in the browser and copy paste the below URL to verify app service streaming data. Make sure to replace the 
  `xxxxxxx` with the given DeploymentID **<inject key= "DeploymentID" enableCopy="false"/>**
 
-   ```BASH
-   https://app-realtime-kpi-analytics-xxxxxxx.azurewebsites.net
-   ```
+   
+   https://app-realtime-kpi-analytics-**<inject key= "DeploymentID" enableCopy="false"/>**.azurewebsites.net
+
 
 1.  **Wait** for the page to load. You will see a page like the one shown below.
 
